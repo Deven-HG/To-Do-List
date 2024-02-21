@@ -1,3 +1,15 @@
 h1 {
     color: purple;
 }
+
+.done {
+    text-decoration: line-through;
+
+}
+.remove {
+    background: none;
+    text-decoration: underline;
+    color: red;
+    border: none;
+
+}
